@@ -21,9 +21,7 @@ fitbit-analysis/
 ├── scripts/
 │   └── fitbit_analysis.R     # Main analysis script
 │
-├── output/
-│   ├── figures/              # Exported plots (PNG)
-│   └── data_frames/          # Aggregated or cleaned datasets
+├── output/                   # Plots (PNG)
 │
 └── README.txt
 ```
