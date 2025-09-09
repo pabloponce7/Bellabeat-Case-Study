@@ -91,5 +91,6 @@ MIT License
 
 ## Contact
 Pablo Ponce– jpabloponce72@gmail.com  
-Repository: https://github.com/pabloponce7/Bellabeat-Case-Study/tree/main
+Repository: https://github.com/pabloponce7/Bellabeat-Case-Study
+
 
