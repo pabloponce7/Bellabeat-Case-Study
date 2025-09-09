@@ -1,7 +1,7 @@
 # =========================================
 # FitBit Fitness Tracker Data Analysis
-# Author: [Your Name]
-# Date: [Date]
+# Author: Juan Pablo Ponce
+# Date: 08/25/2025
 # Description: Data cleaning, exploration, and visualization of FitBit activity and calories datasets.
 # =========================================
 
@@ -170,3 +170,4 @@ ggplot(daily_activity_iqr, aes(x = active_minutes, y = calories)) +
     subtitle = paste("Correlation (Pearson's r) =", round(cor_value, 2))
   ) +
   theme_minimal()
+
