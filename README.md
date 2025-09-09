@@ -93,5 +93,5 @@ MIT License
 
 ## Contact
 Juan Pablo Ponce– jpabloponce72@gmail.com  
-Repository: [https://github.com/USERNAME/fitbit-analysis](https://github.com/USERNAME/fitbit-analysis)
+Repository: https://github.com/pabloponce7/Bellabeat-Case-Study/tree/main
 
