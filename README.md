@@ -31,15 +31,15 @@ fitbit-analysis/
 ## Example Visualizations
 
 ### Average Calories Burned by Hour of Day
-(output/figures/hourly_calories.png)
+(output/hourly_calories.png)
 
 ### Average Active Minutes & Calories by Day of the Week
-(output/figures/daily_summary.png)
+(output/daily_summary.png)
 
 ### Active Minutes vs Calories Burned (Outliers Removed)
-(output/figures/active_vs_calories.png)
+(output/active_vs_calories.png)
 
-> Plots are saved in the `output/figures/` folder.
+> Plots are saved in the `output/` folder.
 
 ---
 
